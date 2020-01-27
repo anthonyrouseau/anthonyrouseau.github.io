@@ -1,6 +1,6 @@
 <script>
     import Carousel from './Carousel.svelte';
-    import ProjectCard from './Projectcard.svelte';
+    import ProjectCard from './ProjectCard.svelte';
     export let list;
 </script>
 
