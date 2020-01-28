@@ -157,6 +157,7 @@
 		overflow-y: scroll;
 		font-size: 1.5vw;
 		-ms-overflow-style: none;
+		font-size: 2vw;
 		
 	}
 	.content::-webkit-scrollbar{
